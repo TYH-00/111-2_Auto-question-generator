@@ -1,2 +1,2 @@
 # 111-2_Auto-question-generator
-https://colab.research.google.com/gist/TYH-00/3b0e6fd48bc493620e2109a45fb2296e/-auto-question-generation-article-analysis-ipynb.ipynb#scrollTo=SRwW54QjwqMI
+https://nkusto365-my.sharepoint.com/:f:/g/personal/c108133218_office365_nkust_edu_tw/EkEBWEIUEFlNiecx2Cz9mc8BdFgDX25XBOpVm53kqokv4A?e=3n2Xyp
